@@ -1,0 +1,1 @@
+Based on [github.com/oxtyped/gpodder2go/issues/12](https://github.com/oxtyped/gpodder2go/issues/12). This project periodically re-builds a docker image for this service.
