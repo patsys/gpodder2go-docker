@@ -1,7 +1,7 @@
 FROM golang:1.16-alpine
 
 ENV VERIFIER_SECRET_KEY='TopSecretKey'
-EXPOSE 3005
+EXPOSE 80
 
 # Set working directory
 WORKDIR /app
